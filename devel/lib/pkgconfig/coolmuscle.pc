@@ -1,0 +1,8 @@
+prefix=/home/musclelab/coolmuscle/devel
+
+Name: coolmuscle
+Description: Description of coolmuscle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_ros

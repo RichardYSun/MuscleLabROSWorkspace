@@ -1,0 +1,2 @@
+cm_desc:cm_gazebo:cm_nav:coolmuscle/coolmuscle:coolmuscle/serial
+-DCATKIN_DEVEL_PREFIX=/home/musclelab/coolmuscle/devel -DCMAKE_INSTALL_PREFIX=/home/musclelab/coolmuscle/install -G Unix Makefiles

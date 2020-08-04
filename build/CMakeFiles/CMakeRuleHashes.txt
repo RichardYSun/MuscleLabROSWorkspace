@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+6599527536d9faa6c57a1e8cc5ffb182 CMakeFiles/clean_test_results
+45f325776e7d8a9f9a99593625f87a5e coolmuscle/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test
+927ab59fe6552e71199370f3c7cabd20 coolmuscle/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer
+0ec16f19e8e6086a7e89340f96bd4dcb coolmuscle/serial/tests/CMakeFiles/clean_test_results_serial
+45f325776e7d8a9f9a99593625f87a5e coolmuscle/serial/tests/CMakeFiles/run_tests_serial_gtest_serial-test
+927ab59fe6552e71199370f3c7cabd20 coolmuscle/serial/tests/CMakeFiles/run_tests_serial_gtest_serial-test-timer

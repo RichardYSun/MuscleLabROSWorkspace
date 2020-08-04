@@ -1,0 +1,8 @@
+prefix=/home/musclelab/coolmuscle/devel
+
+Name: coolmuscle_gazebo
+Description: Description of coolmuscle_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
